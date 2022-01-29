@@ -21,6 +21,9 @@
   </h3>
 </li>
 
+
+<img align="right" src="wink.gif">
+
 <li>
   <h3 style="display: inline;">
     Hobbies :
@@ -30,6 +33,7 @@
     <li>📺 Watching music anime</li>
     <li>🎮 Gaming</li>
     <li>🎶 Playing euphonium</li>
+    <li>🎤 Singing Love Live songs</li>
     <li>📖 Learning new programming languages</li>
   </ul>
 </li>
