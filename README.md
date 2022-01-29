@@ -1,8 +1,6 @@
 <!-- Welcome -->
 <h1 align="center">
-  <img src="assets/ohara.png" width="24"> 
-  Welcome 
-  <img src="assets/ohara.png" width="24">
+  <img src="assets/ohara.png" width="24">Welcome<img src="assets/ohara.png" width="24">
 </h1>
 
 <p align="center">
@@ -10,33 +8,24 @@
 </p>
 
 <!-- About me -->
-<h1 align="center">
-  💜 About me
-</h1>
+<h1 align="center">💜 About me</h1>
 
-<h3>
-  <li>
-    I'm 17 years old and I live in France, i'm passionate about
-    everything related to computing.
-  </li>
-</h3>
-
-<img align="right" src="assets/wink.gif">
-
-<h3>
-  <li>
-    Hobbies:
-    <h5>
-      <ul>
-        <li>📺 Watching music anime</li>
-        <li>🎮 Gaming</li>
-        <li>🎶 Playing euphonium</li>
-        <li>🎤 Singing Love Live songs</li>
-        <li>📖 Learning new programming languages</li>
-      </ul>
-    </h5>
-  </li>
-</h3>
+<ul>
+    <li>
+        <h3>I'm 17 years old and I live in France, i'm passionate about everything related to computing.</h3>
+    </li>
+    <img align="right" src="assets/wink.gif">
+    <li>
+        <h3>Hobbies:</h3>
+        <ul>
+            <li>📺 Watching music anime</li>
+            <li>🎮 Gaming</li>
+            <li>🎶 Playing euphonium</li>
+            <li>🎤 Singing Love Live songs</li>
+            <li>📖 Learning new programming languages</li>
+        </ul>
+    </li>
+</ul>
 
 <br>
 
@@ -63,6 +52,4 @@
 </p>
 
 <!--  Tools -->
-<h1 align="center">
-  💜 Tools
-</h1>
+<h1 align="center">💜 Tools</h1>
