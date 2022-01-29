@@ -9,26 +9,24 @@
   <img src="assets/mijukudreamer.gif">
 </p>
 
-<br>
-
 <!-- About me -->
 <h1 align="center">
   💜 About me
 </h1>
 
 <li>
-  <h2 style="display: inline;">
+  <h3 style="display: inline;">
     I'm 16 years old and I live in France, i'm passionate about
     everything related to computing.
-  </h2>
+  </h3>
 </li>
 
 <br>
 
 <li>
-  <h2 style="display: inline;">
+  <h3 style="display: inline;">
     Hobbies :
-  </h2>
+  </h3>
 
   <ul>
     <li>📺 Watching music anime</li>
@@ -37,9 +35,9 @@
     <li>📖 Learning new programming languages</li>
   </ul>
 
-  <h2 style="display: inline;">
+  <h3 style="display: inline;">
     Contacts :
-  </h2>
+  </h3>
 
   <ul>
     <br>
