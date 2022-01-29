@@ -16,7 +16,7 @@
 
 <li>
   <h3 style="display: inline;">
-    I'm 16 years old and I live in France, i'm passionate about
+    I'm 17 years old and I live in France, i'm passionate about
     everything related to computing.
   </h3>
 </li>
@@ -37,11 +37,11 @@
 <br>
 
 <p align="center">
-  <a href="https://twitter.com/PZeide">
+  <a href="https://twitter.com/PZeide" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&label=PZeide">
   </a>
   &nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/zeidecs">
+  <a href="https://steamcommunity.com/id/zeidecs" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white&label=PZeide">
   </a>
   &nbsp;&nbsp;
@@ -49,11 +49,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.twitch.tv/pzeide">
+  <a href="https://www.twitch.tv/pzeide" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white&label=PZeide">
   </a>
   &nbsp;&nbsp;
-  <a href="https://anilist.com/user/zeide">
+  <a href="https://anilist.com/user/zeide" target="_blank">
     <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white&label=PZeide">
   </a>
 </p>
