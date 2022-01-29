@@ -21,8 +21,6 @@
   </h3>
 </li>
 
-<br>
-
 <li>
   <h3 style="display: inline;">
     Hobbies :
@@ -34,13 +32,29 @@
     <li>🎶 Playing euphonium</li>
     <li>📖 Learning new programming languages</li>
   </ul>
-
-  <h3 style="display: inline;">
-    Contacts :
-  </h3>
-
-  <ul>
-    <br>
-    
-  </ul>
 </li>
+
+<br>
+
+<p align="center">
+  <a href="https://twitter.com/PZeide">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&label=PZeide">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/zeidecs">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white&label=PZeide">
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&label=Zeide%230001">
+</p>
+
+<p align="center">
+  <a href="https://www.twitch.tv/pzeide">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white&label=PZeide">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://anilist.com/user/zeide">
+    <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white&label=PZeide">
+  </a>
+</p>
+
