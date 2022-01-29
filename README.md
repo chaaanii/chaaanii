@@ -22,7 +22,7 @@
 </li>
 
 
-<img align="right" src="wink.gif">
+<img align="right" src="assets/wink.gif">
 
 <li>
   <h3 style="display: inline;">
