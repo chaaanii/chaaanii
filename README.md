@@ -1,6 +1,6 @@
 <!-- Welcome -->
 <h1 align="center">
-  <img src="assets/ohara.png" width="24">Welcome<img src="assets/ohara.png" width="24">
+  <img src="assets/ohara.png" width="24"> Welcome <img src="assets/ohara.png" width="24">
 </h1>
 
 <p align="center">
@@ -51,5 +51,58 @@
   </a>
 </p>
 
-<!--  Tools -->
-<h1 align="center">💜 Tools</h1>
+<!-- Tools & Languages -->
+<h1 align="center">💜 Tools & Languages</h1>
+
+<!-- Tools -->
+<p align="center">
+  <a href="https://www.jetbrains.com/idea" target="_blank">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/rider" target="_blank">
+    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/pycharm" target="_blank">
+    <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/clion" target="_blank">
+    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/phpstorm" target="_blank">
+    <img src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://visualstudio.microsoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+<!-- Languages & Frameworks -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+</p>
+
+<!-- Mari Ohara -->
+<hr>
