@@ -105,7 +105,7 @@
 </p>
 
 <!-- Mari Ohara -->
-<hr>
+<h1></h1>
 
 <p align="center">
   <img src="assets/letsgo.gif">
