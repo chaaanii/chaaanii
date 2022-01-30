@@ -106,3 +106,11 @@
 
 <!-- Mari Ohara -->
 <hr>
+
+<p align="center">
+  <img src="assets/letsgo.gif">
+</p>
+
+<h1 align="center">
+  <img src="assets/ohara.png" width="24"> Have a nice day <img src="assets/ohara.png" width="24">
+</h1>
