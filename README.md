@@ -12,7 +12,7 @@
 
 <ul>
     <li>
-        <h3>I'm 17 years old and I live in France, i'm passionate about everything related to computing.</h3>
+        <h3>I'm 18 years old and I live in France, i'm passionate about everything related to computing.</h3>
     </li>
     <img align="right" src="assets/wink.gif">
     <li>
