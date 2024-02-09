@@ -3,43 +3,23 @@
 
 <ul>
     <li>
-        <h3>I'm 19 years old and I live in France, i'm passionate about everything related to computing.</h3>
+        <h3>I'm 20 years old and I live in France, League of Legends player.</h3>
     </li>
-    <img align="right" src="assets/shy.gif">
+    <img width="310" align="right" src="assets/shy.gif">
     <li>
         <h3>Hobbies:</h3>
         <ul>
-            <li>📺 Watching music anime</li>
-            <li>🎮 Gaming</li>
-            <li>🎶 Playing euphonium</li>
-            <li>🎤 Singing Love Live songs</li>
+            <li>🎮 Playing League of Legends</li>
             <li>📖 Learning new programming languages</li>
         </ul>
     </li>
 </ul>
 
-<br>
+<br><br><br>
 
 <p align="center">
-  <a href="https://twitter.com/PZeide" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&label=PZeide">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/zeidecs" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white&label=PZeide">
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&label=Zeide%230001">
-</p>
-
-<p align="center">
-  <a href="https://www.twitch.tv/pzeide" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white&label=PZeide">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://anilist.com/user/zeide" target="_blank">
-    <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white&label=PZeide">
-  </a>
+  
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&label=chaaani">
 </p>
 
 <!-- Tools & Languages -->
@@ -49,15 +29,6 @@
 <p align="center">
   <a href="https://www.jetbrains.com/idea" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/rider" target="_blank">
-    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/pycharm" target="_blank">
-    <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  </a>
   &nbsp;&nbsp;
   <a href="https://www.jetbrains.com/clion" target="_blank">
     <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
@@ -82,24 +53,18 @@
 
 <!-- Languages & Frameworks -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </p>
 
 <!-- Mari Ohara -->
 <h1></h1>
 
 <p align="center">
-  <img src="assets/letsgo.gif">
+  <img src="assets/end.gif">
 </p>
 
 <h1 align="center">
