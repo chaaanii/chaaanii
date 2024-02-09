@@ -1,12 +1,3 @@
-<!-- Welcome -->
-<h1 align="center">
-  <img src="assets/ohara.png" width="24"> Welcome <img src="assets/ohara.png" width="24">
-</h1>
-
-<p align="center">
-  <img src="assets/mijukudreamer.gif">
-</p>
-
 <!-- About me -->
 <h1 align="center">💜 About me</h1>
 
@@ -14,7 +5,7 @@
     <li>
         <h3>I'm 19 years old and I live in France, i'm passionate about everything related to computing.</h3>
     </li>
-    <img align="right" src="assets/wink.gif">
+    <img align="right" src="assets/shy.gif">
     <li>
         <h3>Hobbies:</h3>
         <ul>
