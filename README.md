@@ -1,5 +1,5 @@
 <!-- About me -->
-<h1 align="center">💜 About me</h1>
+<h1 align="center">🧡 About me</h1>
 
 <ul>
     <li>
@@ -23,7 +23,7 @@
 </p>
 
 <!-- Tools & Languages -->
-<h1 align="center">💜 Tools & Languages</h1>
+<h1 align="center">🧡 Tools & Languages</h1>
 
 <!-- Tools -->
 <p align="center">
@@ -68,5 +68,5 @@
 </p>
 
 <h1 align="center">
-  <img src="assets/ohara.png" width="24"> Have a nice day <img src="assets/ohara.png" width="24">
+  👋 Have a nice day 👋
 </h1>
