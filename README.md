@@ -3,7 +3,7 @@
 
 <ul>
     <li>
-        <h3>I'm 20 years old and I live in France, League of Legends player.</h3>
+        <h3>I'm 21 years old and I live in France, League of Legends player.</h3>
     </li>
     <img width="310" align="right" src="assets/shy.gif">
     <li>
